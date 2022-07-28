@@ -1,12 +1,14 @@
 # Vagrant 0x00
 
-A **vagrant** _0x00_ file directory on how to code in your local computer, having a virtual machine
+## A **_vagrant_** **_0x00_** file directory
+
+* How to code in your local computer, using a virtual machine
 
 ## Optional Vagrant Project
 
-* Using Vagrant on the personal computer
+* Using Vagrant on the personal computer **_CLI_**
 
-### General
+### General Learning
 
 * What is Ubuntu
 * What is virtual machine
@@ -14,6 +16,6 @@ A **vagrant** _0x00_ file directory on how to code in your local computer, havin
 
 ### More Information
 
-* Install Virtual Machine, Vagrant
+* Install Virtual Machine (virtualbox), Vagrant
 * Install git
-* What does the **sudo** code do
+* What does the **_sudo_** code do
