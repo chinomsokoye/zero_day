@@ -1,12 +1,18 @@
-# First School project
+# First School project on virtualization
 
-An Optional _Vagrant_ **projects**
+* Virtualbox
+* Vagrant
 
-A **first repository** _first task_ on _vagrant_
+### An Optional **_Vagrant_** **_project_**
+
+### A **_first repository_** **_first task_** on **_vagrant_**
+
+* Vagrant on the command line
+* Vagrant on virtualbox
 
 ## Concepts
 
-* Using Vagrant on the _PC_
+* Using Vagrant on the **_PC_**
 * Vagrant howto
 
 ## Resources
